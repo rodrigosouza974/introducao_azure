@@ -9,7 +9,6 @@ Este guia detalha como criar um recurso no Microsoft Azure, desde a configuraç�
 
    - Instale a CLI do Azure seguindo a documentação oficial: [CLI do Azure - Instalação](https://learn.microsoft.com/cli/azure/install-azure-cli)
    - Ou acesse o [Portal do Azure](https://portal.azure.com).
-
 ## Passos para Criar um Recurso (Exemplo: Máquina Virtual)
 
 ### 1. Logar no Azure
